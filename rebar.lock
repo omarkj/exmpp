@@ -1,0 +1,6 @@
+[{<<"exml">>,
+  {git,"https://github.com/esl/exml.git",
+       {ref,"d7b745fa89389b53706a07f33775f1f814c66cb4"}},
+  0},
+ {<<"goldrush">>,{pkg,<<"goldrush">>,<<"0.1.7">>},1},
+ {<<"lager">>,{pkg,<<"lager">>,<<"3.0.1">>},0}].
