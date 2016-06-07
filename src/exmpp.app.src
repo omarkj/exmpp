@@ -6,7 +6,8 @@
    [kernel,
     stdlib,
     ssl,
-    lager
+    lager,
+    exml
    ]},
   {env,[]},
   {modules, []},
